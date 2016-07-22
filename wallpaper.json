@@ -2,9 +2,9 @@
   "wallpapers": [
     {
       "author": "Jonathan Imperato",
-      "url": "https://github.com/Heromine/Wallpaper/raw/master/wallpaper.jpg",
+      "url": "https://raw.githubusercontent.com/Heromine/Wallpaper/master/wallpaper.jpg",
       "name": "Space",
-      "thumbnail": "https://github.com/Heromine/Wallpaper/raw/master/thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Heromine/Wallpaper/master/thumb.jpg"
     }
   ]
 }
