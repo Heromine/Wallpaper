@@ -2,15 +2,9 @@
   "wallpapers": [
     {
       "author": "Jonathan Imperato",
-      "url": "https://raw.githubusercontent.com/Heromine/Wallpaper/blob/master/wallpaper.png",
+      "url": "https://raw.githubusercontent.com/Heromine/Wallpaper/blob/master/wallpaper.jpg",
       "name": "Space",
-      "thumbnail": "https://raw.githubusercontent.com/Heromine/Wallpaper/blob/master/space_thumb.png"
-    },
-    {
-      "author": "Jonathan Imperato",
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name": "Universe",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/Heromine/Wallpaper/blob/master/thumb.jpg"
     }
   ]
 }
