@@ -2,6 +2,11 @@
   "wallpapers": [
     {
       "author": "Jonathan Imperato",
+      "url": "https://raw.githubusercontent.com/Heromine/Wallpaper/master/wall_dirig.png",
+      "name": "Airship"
+    },
+    {
+      "author": "Jonathan Imperato",
       "url": "https://raw.githubusercontent.com/Heromine/Wallpaper/master/wallpaper.jpg",
       "name": "Space"
     },
